@@ -1,0 +1,8 @@
+.SelectFileButton{
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    width: 150px;
+    height: 50px;
+    background: #ffffff;
+}
